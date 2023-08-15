@@ -4,11 +4,11 @@ In this script, you will provide the tag key as an input when prompted. The scri
 
 Replace # List of IP addresses with the actual list of IP addresses you want to use.
 
-To run the script:
+To run the script: </br>
 
-Open AWS CloudShell.
-Copy and paste the script into the shell.
-Press Enter to run the script.
-Provide the tag key when prompted.
-Provide a list of IP addresses separated by new lines for the ips list.
+Open AWS CloudShell. </br>
+Copy and paste the script into the shell. </br>
+Press Enter to run the script. </br>
+Provide the tag key when prompted. </br>
+Provide a list of IP addresses separated by new lines for the ips list. </br>
 Make sure you have the necessary permissions and AWS credentials configured in CloudShell before running the script.
